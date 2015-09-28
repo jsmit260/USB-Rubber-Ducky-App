@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\bin\Debug\RubberDuckyApp.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.Form1.resources
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\bin\Debug\RubberDuckyApp.exe
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\bin\Debug\RubberDuckyApp.pdb
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.exe
+c:\users\adam\documents\visual studio 2013\Projects\RubberDuckyApp\RubberDuckyApp\obj\Debug\RubberDuckyApp.pdb
